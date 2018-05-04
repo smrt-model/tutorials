@@ -4,3 +4,4 @@ pandas
 six
 xarray
 numpy
+scipy
