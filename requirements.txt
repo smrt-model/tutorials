@@ -1,2 +1,6 @@
 git+https://github.com/smrt-model/smrt
 matplotlib
+pandas
+six
+xarray
+numpy
